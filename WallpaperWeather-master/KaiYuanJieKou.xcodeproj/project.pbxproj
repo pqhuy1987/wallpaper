@@ -828,7 +828,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.solitaire.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -848,7 +848,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.solitaire.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
